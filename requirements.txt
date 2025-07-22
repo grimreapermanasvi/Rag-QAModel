@@ -1,0 +1,11 @@
+torch>=1.9.0
+transformers>=4.21.0
+sentence-transformers>=2.2.0
+scikit-learn>=1.0.0
+numpy>=1.21.0
+flask>=2.0.0
+flask-cors>=3.0.0
+pdfminer.six>=20220524
+PyPDF2>=3.0.0
+pathlib>=1.0.1
+hashlib2>=1.0.0
